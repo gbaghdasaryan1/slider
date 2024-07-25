@@ -1,0 +1,11 @@
+.app{
+    height: 100dvh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper{
+    width: 50dvw;
+    margin: 0 auto;
+}
